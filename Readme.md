@@ -27,7 +27,7 @@ c. Database: MySQL for storing user profiles, food donation information, and oth
 
 d. Authentication and Authorization: Using JWT (JSON Web Tokens) for secure user authentication and authorization.
 
-e. RESTful API Design: Implementing RESTful APIs using Spring MVC or JAX-RS to expose the necessary endpoints for communication with the frontend and other services.
+e. RESTful API Design: Implementing RESTful APIs using Spring MVC to expose the necessary endpoints for communication with the frontend and other services.
 
 f. Data Persistence: Utilizing an Object-Relational Mapping (ORM) tool like JPA to interact with the database.
 
